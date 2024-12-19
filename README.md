@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0bfb8ad9-dfea-4b79-98c6-164272182038)# Train Hard
+# Train Hard
 
 A Flutter project designed to help users achieve their fitness goals through personalized workout and diet plans.
 
