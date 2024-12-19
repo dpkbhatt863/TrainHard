@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408840157570",
+    "project_id": "fitnessapp-c5400",
+    "storage_bucket": "fitnessapp-c5400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408840157570:android:19f4c32da85cfbcfb9b79b",
+        "android_client_info": {
+          "package_name": "com.example.train_hard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMVMoZndMkfwxkMiR-a3Rzhsa4Pq3rZUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
